@@ -20,8 +20,8 @@ if not data.raw.item["electric-vehicles-lo-voltage-transformer"] then
 			  count = 20,
 			  ingredients =
 			  {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			  },
 			  time = 20
 			},
@@ -80,7 +80,6 @@ if not data.raw.item["electric-vehicles-lo-voltage-transformer"] then
 			icon = "__vwtransporter_A16__/graphics/equipment/Icon_electric-vehicles-lo-voltage-transformer.png",
 			icon_size = 32,
 			placed_as_equipment_result = "electric-vehicles-lo-voltage-transformer",
-			flags = {"goes-to-main-inventory"},
 			subgroup = "electric-vehicles-equipment",
 			order = "c",
 			stack_size = 10,

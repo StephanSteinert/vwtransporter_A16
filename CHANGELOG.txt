@@ -1,0 +1,12 @@
+0.16.1 - Added some validation checks in electric.lib to fix several crashes.
+0.16.0 - Updated to 0.16
+0.1.0 - NEW style: Cargo Van! XL inventory for manual deliveries. Runs on normal fuel or electrical power.
+0.0.9 - FIXED a bug that occurred in conjunction with DyTech Dynamics. Reduced transformer size.
+0.0.8 - This mod has no more dependencies. So now you don't need other mods to play this mod.
+0.0.7 - NEW style: Electric van! Runs on electricity. Requires the mods Electric Vehicles and Electric Vehicles Lib.
+0.0.6 - NEW style: Ice Cream van! Tweaked both vans: brakes, turning, speed, recipes, technology.
+0.0.5 - Added equipment grid
+0.0.4 - Version for Factorio 0.14
+0.0.3 - FIXED shaking bug. Small improvements to the model. (wheels, windows, stop lights, door handles, ...)
+0.0.2 - Made inventory size more realistic. Increased driving speed.
+0.0.1 - Initial release
